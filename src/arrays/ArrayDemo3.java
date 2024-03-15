@@ -6,7 +6,7 @@ public class ArrayDemo3
 {
 	public static void main(String[] args) 
 	{
-	String name="vedant";
+	String name="Smita";
 	
 		char a1[]= name.toCharArray();
 		Arrays.sort(a1);

@@ -4,7 +4,7 @@ public class SpaceInArray {
 
 	public static void main(String[] args) {
 		
-		String name="jaya sureban";
+		String name="smita bandal";
 		char c1[]=name.toCharArray(); //Converting to char array
 		
 		for(int i=0; i<name.length();i++)
